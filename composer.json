@@ -1,0 +1,17 @@
+{
+    "name": "nghiad/contactform",
+    "description": "A Contact Form Package for Laravel",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "NghiaD",
+            "email": "dangnghia25197@gmail.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"NghiaD\\ContactForm\\": "src/"
+		}
+	}
+}
