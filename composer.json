@@ -2,6 +2,7 @@
     "name": "nghiad/contactform",
     "description": "A Contact Form Package for Laravel",
     "type": "composer-plugin",
+    "license": "MIT",
     "authors": [
         {
             "name": "NghiaD",
