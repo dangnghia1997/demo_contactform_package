@@ -14,5 +14,12 @@
 		"psr-4": {
 			"NghiaD\\ContactForm\\": "src/"
 		}
-	}
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "NghiaD\\ContactForm\\ContactFormServiceProvider"
+            ]
+        }
+    },
 }
